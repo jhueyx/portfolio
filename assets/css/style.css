@@ -302,7 +302,7 @@ a:focus {
 ---------------------------------------------------*/
 
 #sectionResume{
-	background: #c3d7d8;
+	background: #808080;
 	padding-bottom: 100px;
 }
 
@@ -647,7 +647,7 @@ span.separator{
 #sectionContact{
 	margin-bottom: 0px;
 	padding-bottom: 100px;
-	background: #fbfbfb;
+	background: #808080;
 }
 input, textarea, select {
 	background:#eee;

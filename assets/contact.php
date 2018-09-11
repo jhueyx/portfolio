@@ -54,7 +54,7 @@ if ( empty( $comments ) ) {
 //// Place your e-mail here
 
 if ( !empty($error) ) {
-	echo '<div class="errorMessage">Corect the errors and try again!';
+	echo '<div class="errorMessage">Correct the errors and try again!';
 	echo '<ul class="errorMessages">' . $error . '</ul>';
 	echo '</div>';
 
