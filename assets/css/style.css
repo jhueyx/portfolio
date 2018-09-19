@@ -378,8 +378,8 @@ a:focus {
 	background: #f9f7f8;
 }
 .mGrid img{
-	width: 100%;
-	height: 100%;
+	width: 420px;
+	height: 350px;
 	transition: all 0.15s ease-in-out;
 	-webkit-transition: all 0.15s ease-in-out;
 	-moz-transition: all 0.15s ease-in-out;
@@ -401,8 +401,7 @@ a:focus {
 }
 
 .item-five { width: 33%; }
-.item-three { width: 32%; }
-.item-four { width: 29%; }
+
 
 .itemHover {
 	position: absolute;
